@@ -8,7 +8,7 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Hi, I'm Samantha
+        Hi, I'm Samantha.
       </SectionTitle>
       <SectionText>
         I am a full-stack software developer and recent graduate of Flatiron School's Bootcamp.
