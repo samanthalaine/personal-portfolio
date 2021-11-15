@@ -82,10 +82,7 @@ export const SectionDivider = styled.div`
   width: 64px;
   height: 6px;
   border-radius: 10px;
-  background-color: #fff;
-  background: ${(props) => props.colorAlt ? 
-    'linear-gradient(270deg, #F46737 0%, #945DD6 100%)' :
-    'linear-gradient(270deg, #13ADC7 0%, #945DD6 100%)'};
+  background-color: #C2185B;
 
     margin: ${(props) => props.divider ? "4rem 0" : "" };
 
@@ -210,7 +207,7 @@ export const ButtonFront = styled.button`
   left: 0;
   width: 100%;
   height: 100%;
-  background: #C2185B;
+  background: #C2185B; 
   
   transition: .4s ease;
   font-size: ${({ alt }) => alt ? '20px' : '24px'};
@@ -221,7 +218,7 @@ export const ButtonFront = styled.button`
   box-shadow: ${({ disabled }) => disabled ? 'inset 0px 2px 1px rgba(46, 49, 55, 0.15), inset 0px 0px 4px rgba(20, 20, 55, 0.3)' : 'none'};
 
   &:hover {
-    opacity: 0;
+    background: #880E4F;
   }
   &:focus {
     outline: none;
