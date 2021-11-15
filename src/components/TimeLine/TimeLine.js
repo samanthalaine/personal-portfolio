@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
       I am a lifelong learner and love reading books on personal growth. 
-       In my spare time, I enjoy practicing yoga, taking walks, and cuddling with my cat.
+       In my spare time, I enjoy practicing yoga, taking walks, and playing my Nintendo Switch.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
