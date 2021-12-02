@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'Workflow',
+    description: "Workflow is an employee management system for a fictional tech company called TechWorks. You can add an employee, update their details, and delete them from the database. I used Auth0 for the signup/login.",
+    image: "https://media.discordapp.net/attachments/887887430475186176/916054586048020500/unknown.png?width=1109&height=615",
+    tags: ['PostgreSQL', 'Express', 'React', 'Node'],
+    code: 'https://github.com/samanthalaine/employee-management-system',
+    visit: "https://workflow-site.netlify.app/",
+    id: 0,
+  },
+  {
     title: 'BeWell',
     description: "BeWell is a social media app where people can connect with others about their fitness, diet, meditation goals, and overall well-being.",
     image: "https://media.discordapp.net/attachments/887887430475186176/905323231236464660/unknown.png?width=1575&height=864",
