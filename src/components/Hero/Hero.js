@@ -8,10 +8,10 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Hi, I'm Samantha.
+        Hi, I'm Samantha!
       </SectionTitle>
       <SectionText>
-        I am a full-stack software developer and recent graduate of Flatiron School's Bootcamp.
+        I am a software developer and graduate of Flatiron School's Bootcamp.
       </SectionText>
       
     </LeftSection>

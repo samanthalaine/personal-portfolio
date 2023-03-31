@@ -9,9 +9,9 @@ const Header = () =>  (
   <Container >
     <Div1>
       <Link href='/'>
-        <a style={{display: "flex", alignItems: "center", color: "white", marginBottom: '20px'}}>
-          <BsHouseFill size="2rem" /> <Span>Home</Span>
-        </a>
+        <p style={{display: "flex", alignItems: "center", color: "white", marginBottom: '20px'}}>
+          <BsHouseFill size="2rem" /> <Span style={{marginLeft: '10px'}}>Home</Span>
+        </p>
       </Link>
     </Div1>
     <Div2>

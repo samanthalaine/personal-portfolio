@@ -4,8 +4,9 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AccomplishmentsStyles';
 
 const data = [
-  { number: "300+", text: 'Github Contributions in the last quarter', },
-  { number: 2021, text: 'Certified AWS Cloud Practitioner', }
+  { number: "800+", text: 'Github Contributions in the last year' },
+  { number: 2021, text: 'Certified AWS Cloud Practitioner' },
+  { number: 2022, text: 'Started work as a full time developer' },
 ];
 
 const Accomplishments = () => (
