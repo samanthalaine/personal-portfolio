@@ -18,7 +18,7 @@ const Technologies = () =>  (
           <ListTitle>Frontend</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            HTML, CSS, JavaScript, React, Vue, Tailwind CSS and Material UI
+            HTML, CSS, JavaScript, React, Vue, Tailwind CSS, and Material UI
           </ListParagraph>
         </ListContainer>
       </ListItem>
